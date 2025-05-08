@@ -1,9 +1,13 @@
 # Deriv-Bots-XML
 This is a collection https://dbot.deriv.com xml bots
+
 For inquiries;
-WhatsApp Chat me at wa.me/254747204803
+
+WhatsApp Chat me at https://wa.me/254747204803
+
 or 
-Telegram Chat me at t.me/Deriv_Ace
+
+Telegram Chat me at https://t.me/Deriv_Ace
 
 
 <h1 align="center">
