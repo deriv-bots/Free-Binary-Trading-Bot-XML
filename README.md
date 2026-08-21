@@ -17,7 +17,11 @@ This repo contains a collection of XML-based Deriv bots designed for automated b
 
 They’re built for traders who want high win rates with controlled risk. Martingale stages are supported, but use with caution.
 
----
+--
+<p align="center">
+  <a href="https://wa.me/254747204803"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://t.me/Deriv_Pro"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 
 ## 🧠 How to Get Started
 
@@ -31,7 +35,7 @@ They’re built for traders who want high win rates with controlled risk. Martin
 
 ![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
 
-> ⚠️ These bots are intended for experienced traders. Always test on demo accounts first and consult a financial advisor before going live.
+> ⚠️ These bots are intended for experienced traders. Always test on demo accounts first and consult a financial advisor like me before going live.
 
 ---
 
@@ -40,7 +44,7 @@ They’re built for traders who want high win rates with controlled risk. Martin
 Want premium bots or 1-on-1 guidance? Reach out:
 
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
+- 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
 - 📧 Email: monarchtrades@outlook.com 
 
 ---
@@ -49,10 +53,10 @@ Want premium bots or 1-on-1 guidance? Reach out:
 
 There are over 40+ premium bots and strategies available  plus lifetime access to future releases. Test, compare, and find your perfect fit.
 
-- Combo deal includes all bots + future updates or buy bots indivi
+- Combo deal includes all bots + future updates or buy bots individually
 - Contact me for pricing:
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
+- 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
 - 📧 Email: monarchtrades@outlook.com 
 
 ---
@@ -71,8 +75,8 @@ There are over 40+ premium bots and strategies available  plus lifetime access t
 
 Step into a private trading community built for precision, profit, and elite strategy sharing.
 
-**𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:** [https://t.me/Deriv Pro_Bots](https://t.me/Deriv_Pro_Bots)  
-**𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:** [https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk](https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk)
+**𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:** [𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘](https://t.me/Deriv_Pro_Bots)  
+**𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:** [𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘](https://chat.whatsapp.com/IRaeFQiF7OFJwd4i2HBG3B)
 
 > Access premium bots, live strategy drops, and mentorship from top-tier traders.  
 > This isn’t just a group, it’s your edge.
@@ -100,9 +104,12 @@ This project is licensed under the MIT License.
 If you’ve benefited from these bots, consider supporting by donating, contact me below for donation details:
 
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
-- 💬 Telegram: [@Deriv_Pro](https://t.me/Deriv_Pro)  
+- 💬 Telegram: [Deriv Pro](https://t.me/Deriv_Pro)  
 - 📧 Email: monarchtrades@outlook.com
 
 
-
+<p align="center">
+  <a href="https://wa.me/254747204803"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://t.me/Deriv_Pro"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 
